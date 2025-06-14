@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+﻿tmp/todo.txt
+>>>>>>> 16931d9 (exclusion des fichier xm:)
 tmp/*
 *.txt
 *.xml
